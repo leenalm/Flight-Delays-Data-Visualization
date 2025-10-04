@@ -8,7 +8,7 @@
 6. [Key Insights & Operational Implications](#6-key-insights--operational-implications)
 7. [Tools & Libraries](#7-tools--libraries)
 8. [Skills Demonstrated](#8-skills-demonstrated)
-9. 
+   
 # 📊 Flight Delays Data Visualization
 
 This repository contains a comprehensive exploration and analysis of U.S. domestic flight delays, cancellations, and diversions using the `T_ONTIME_REPORTING.csv` dataset. The project investigates how departure time, day of the week, and flight distance influence flight performance.  
